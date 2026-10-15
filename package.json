@@ -1,0 +1,16 @@
+{
+  "name": "arjun-ctp5-prep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "14-day CTP 5 study plan with lessons, quizzes, flashcards and two full-length practice tests",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
